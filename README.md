@@ -1,7 +1,3 @@
-To help you stand out during the February 10th placements, your README needs to do more than list the tech—it needs to explain the architecture and the business value.
-
-Here is a professional, high-impact README.md template for your Spotify Data Lake project.
-
 🎧 Spotify Data Lake & Analytics Pipeline
 Project Overview
 This project demonstrates a Serverless Data Lakehouse architecture built on AWS to analyze global Spotify track data. Instead of traditional static reporting, this pipeline leverages cloud-native services to ingest raw data, automate metadata discovery, and provide high-performance SQL analytics.
